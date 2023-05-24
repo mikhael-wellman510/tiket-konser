@@ -1,0 +1,30 @@
+{
+  "tiket": [
+    {
+      "id": 1,
+      "kodeTiket": "",
+      "nama": "Mikhael Wellman",
+      "umur": "20",
+      "gender": "Pria",
+      "alamat": "Bogor"
+    },
+    {
+      "kodeTiket": "",
+      "nama": "dwdw",
+      "umur": "dwd",
+      "gender": "22",
+      "alamat": "",
+      "id": 2
+    },
+    {
+      "kodeTiket": "",
+      "nama": "",
+      "umur": "",
+      "gender": "",
+      "alamat": "",
+      "id": 3
+    }
+    
+  
+  ]
+}

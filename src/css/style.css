@@ -1,0 +1,238 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,800&display=swap");
+
+.n {
+  display: flex;
+  background-color: antiquewhite;
+  height: 60px;
+
+  align-items: center;
+}
+
+.n1 {
+  display: flex;
+  justify-content: space-around;
+  width: 1200px;
+  gap: 300px;
+  font-family: "Kanit", sans-serif;
+  cursor: pointer;
+}
+
+.n2 {
+  display: flex;
+  width: 500px;
+  justify-content: center;
+  gap: 90px;
+  cursor: pointer;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.n2 p:hover {
+  display: flex;
+  justify-content: center;
+  border-radius: 6px;
+  color: blueviolet;
+}
+
+/* ===home page === */
+
+.hp1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgba(245, 245, 220, 0.604);
+  padding: 150px;
+  height: 560px;
+  gap: 30px;
+}
+
+.hp2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.hp2 h1 {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 30px;
+}
+
+/* ==== Regis ==== */
+
+.r1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+
+.r2 {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  gap: 30px;
+}
+
+.r3 {
+  display: flex;
+  justify-content: center;
+}
+
+.r4 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.r8 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* == hasil regist== */
+
+.hr {
+  display: flex;
+  justify-content: center;
+  padding: 140px;
+}
+
+.hr1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 600px;
+}
+
+.hr2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.hr3 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.hr5 {
+  font-family: "Kanit", sans-serif;
+  font-size: 18px;
+}
+
+.hr6 {
+  font-family: "Kanit", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: antiquewhite;
+  border-radius: 8px;
+  padding: 20px;
+}
+.hr8 {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 30px;
+  color: coral;
+}
+
+/* ======= admin ===== */
+
+.a1 {
+  display: flex;
+  justify-content: center;
+  padding: 230px;
+  gap: 60px;
+}
+
+/* ======== list hasil ============== */
+
+.l1 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+  align-items: center;
+}
+
+.li2 {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.li8 {
+  display: flex;
+  justify-content: center;
+}
+
+/* ===== login ==== */
+.aa1 {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+
+.aa2 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  width: 400px;
+}
+
+.aa3 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.aa4 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.aa5 {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+/* ====== Validasi Id ============= */
+
+.vv2 {
+  display: flex;
+  justify-content: center;
+  padding: 140px;
+}
+
+.vv3 {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  gap: 20px;
+}
+
+.vv4 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+.vv5 {
+  display: flex;
+  justify-content: center;
+}
+
+.vv6 {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 40px;
+  padding: 50px;
+}
